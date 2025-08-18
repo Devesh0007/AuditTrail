@@ -1,0 +1,6 @@
+@AuditTrail_Dentsply_Sirona_HostAddress = http://localhost:5012
+
+GET {{AuditTrail_Dentsply_Sirona_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
